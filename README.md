@@ -9,4 +9,4 @@ Math.random:- To create random double number ranging from 0.0 to 1.0.
 
 To Know more:
 
-Math.random:https: //www.geeksforgeeks.org/java-math-random-method-examples/
+Math.random: https://www.geeksforgeeks.org/java-math-random-method-examples/
